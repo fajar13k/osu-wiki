@@ -19,12 +19,12 @@ The **Asia Suiji Cup: Rhythmus Aquarum** (***ASC***) is a three-on-three asian c
 | Player registration phase | 2024-05-25/2024-06-14 |
 | Screening phase | 2024-06-15/2024-06-29 |
 | Team drawings | 2024-06-30 |
-| Qualifiers | 2024-07-06/2024-07-07 |
-| Round of 16 | 2024-07-13/2024-07-14 |
-| Quarterfinals | 2024-07-20/2024-07-21 |
-| Semifinals | 2024-07-27/2024-07-28 |
-| Finals | 2024-08-03/2024-08-04 |
-| Grand Finals | 2024-08-10/2024-08-11 |
+| Qualifiers | 2024-07-13/2024-07-14 |
+| Round of 16 | 2024-07-20/2024-07-21 |
+| Quarterfinals | 2024-07-27/2024-07-28 |
+| Semifinals | 2024-08-03/2024-08-04 |
+| Finals | 2024-08-10/2024-08-11 |
+| Grand Finals | 2024-08-17/2024-08-18 |
 
 ## Prizes
 
@@ -109,7 +109,7 @@ The maps in this tournament will only consist of Long Note (LN) oriented maps, a
 1. One player from each rank must be present in the lobby (One A, One B, One C). "A" seeded players have the ability to substitute with "B" or "C" seeds on their team. "B" seeded players also have the ability to substitute but only with "C" seed on their team.
 2. The referee will notify the captains 10-15 minutes before the lobby is scheduled to start. Captains must ensure players are in the lobby on time.
 3. Players will play the mappool in order from Stage 1-8 twice. There is a maximum 2-minute break in between each map. After the first cycle, players will be given a 5-minute break before continuing with the 2nd cycle which follows the same procedure. Players are allowed to skip this break if all players present in the lobby agree to start the 2nd run right away.
-4. Teams can reschedule to a later qualifier lobby if they missed their scheduled lobby, the latest lobby that can be requested is by 7th June at 16:00 (UTC+0).
+4. Teams can reschedule to a later qualifier lobby if they missed their scheduled lobby, the latest lobby that can be requested is by 13th July at 16:00 (UTC+0).
 
 #### Bracket stage
 
