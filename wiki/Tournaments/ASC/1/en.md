@@ -74,7 +74,19 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 ## Mappools
 
-*Every mappool will be announced 7 days (usually Sunday) before the next stage's match timeline.*
+### Qualifiers
+
+- Rice
+  1. [P\*Light - SWAG!! (Orca-) \[Stage 1: WATCH OUT!!\]](https://osu.ppy.sh/beatmapsets/2206316#mania/4671278)
+  2. [daisan - Tenjou no Porisuruin (\[GS\]hina) \[Stage 2: Ascended\]](https://osu.ppy.sh/beatmapsets/2206306#mania/4671254)
+  3. [suisoh - Afterwards (ERA Imperial) \[Stage 3: Mimir\]](https://osu.ppy.sh/beatmapsets/2206334#mania/4671300)
+  4. [REDALiCE - DEAD or DIE (YuEast 2018) \[Stage 4: Dice\]](https://osu.ppy.sh/beatmapsets/2206328#mania/4671294)
+- LN
+  1. [CHON - Splash (anatharax) \[Stage 5: Spritz\]](https://osu.ppy.sh/beatmapsets/2206314#mania/4671275)
+  2. [Getty vs. DJ DiA - DropZ-Line- (Toaph Daddy) \[Stage 6: Cataclysm\]](https://osu.ppy.sh/beatmapsets/2206317#mania/4671280)
+- HB
+  1. [MYUKKE. - Inga WooHoo!!! (TheFunk) \[Stage 7: Unga Bunga\]](https://osu.ppy.sh/beatmapsets/2206320#mania/4671283)
+  2. [Zekk - Abrasion (Japeynius) \[Stage 8: Resolution\]](https://osu.ppy.sh/beatmapsets/2206324#mania/4671290)
 
 ## Ruleset
 
