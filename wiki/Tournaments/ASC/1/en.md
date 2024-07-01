@@ -64,7 +64,9 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 - [Discord server](https://discord.gg/NUd7GyU4Hd)
 - [Livestream](https://www.twitch.tv/asiasuijicup)
 - [ASC trailer](https://youtu.be/a1fHTbI5erU)
-- [Staff registration form](https://docs.google.com/forms/d/e/1FAIpQLSdBVpVKH9KMxZ4Ql1Apb0fRz0-20DK7meT5wMkZ1h6jZYydpw/viewform)
+- [ASC website](https://asia-suiji-cup.vercel.app)
+- [Challonge bracket](https://challonge.com/asiasuijicup)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/148) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
 
