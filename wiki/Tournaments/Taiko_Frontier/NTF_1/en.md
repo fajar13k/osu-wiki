@@ -32,7 +32,7 @@ The **Nightmare Taiko Frontier** (***NTF***) was a worldwide 1v1 double-eliminat
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Unique profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Unique profile banner |
 
-![](img/ntf-winner-badge.jpeg "NTF winner badge")
+![NTF winner badge](img/ntf-winner-badge.jpeg "NTF winner badge")
 
 ## Organisation
 
@@ -41,7 +41,7 @@ The Nightmare Taiko Frontier was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=JP }:: [shinjinhome](https://osu.ppy.sh/users/30147970), ::{ flag=KR }:: [Konpaku Sariel](https://osu.ppy.sh/users/533502) |
-| Map pooler | ::{ flag=JP }:: [Gsuncraft](https://osu.ppy.sh/users/30496573), ::{ flag=JP }:: [shinjinhome](https://osu.ppy.sh/users/30147970), ::{ flag=JP }:: [yakisode](https://osu.ppy.sh/users/35619347) |
+| Mappooler | ::{ flag=JP }:: [Gsuncraft](https://osu.ppy.sh/users/30496573), ::{ flag=JP }:: [shinjinhome](https://osu.ppy.sh/users/30147970), ::{ flag=JP }:: [yakisode](https://osu.ppy.sh/users/35619347) |
 | Mapper | ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226), ::{ flag=JP }:: [\_Rise](https://osu.ppy.sh/users/5217107), ::{ flag=JP }:: [-Kazuha](https://osu.ppy.sh/users/29978316), ::{ flag=JP }:: [4sbet1](https://osu.ppy.sh/users/11563671), ::{ flag=US }:: [5\_5](https://osu.ppy.sh/users/6853438), ::{ flag=JP }:: [Gsuncraft](https://osu.ppy.sh/users/30496573), ::{ flag=HK }:: [JarvisGaming](https://osu.ppy.sh/users/8601048), ::{ flag=JP }:: [layxa](https://osu.ppy.sh/users/14800030), ::{ flag=JP }:: [miyagishima](https://osu.ppy.sh/users/8027517), ::{ flag=JP }:: [na7yuta\_osu](https://osu.ppy.sh/users/22747806), ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027), ::{ flag=JP }:: [shinjinhome](https://osu.ppy.sh/users/30147970), ::{ flag=JP }:: [SORA\_T4kAhqSh1](https://osu.ppy.sh/users/30549266), ::{ flag=JP }:: [Syurin](https://osu.ppy.sh/users/20422042), ::{ flag=JP }:: [Waribashi](https://osu.ppy.sh/users/2250574), ::{ flag=TW }:: [X a v y](https://osu.ppy.sh/users/3738344), ::{ flag=JP }:: [yakisode](https://osu.ppy.sh/users/35619347) |
 | Mappool tester | ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226), ::{ flag=JP }:: [-yukineko-](https://osu.ppy.sh/users/15159808), ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073), ::{ flag=JP }:: [marusuke75](https://osu.ppy.sh/users/28854025), ::{ flag=DE }:: [MrrMiller](https://osu.ppy.sh/users/9757858), ::{ flag=KR }:: [NaNaHiDa](https://osu.ppy.sh/users/30114023), ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027), ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184) |
 | Referee | ::{ flag=MX }:: [Annapurna](https://osu.ppy.sh/users/36965488), ::{ flag=MY }:: [DXA FonG](https://osu.ppy.sh/users/15019527), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=JP }:: [na7yuta\_osu](https://osu.ppy.sh/users/22747806), ::{ flag=KR }:: [NaNaHiDa](https://osu.ppy.sh/users/30114023), ::{ flag=JP }:: [nuku0315](https://osu.ppy.sh/users/8772103), ::{ flag=IN }:: [Pilo\_BFFRI](https://osu.ppy.sh/users/27266540), ::{ flag=JP }:: [shinjinhome](https://osu.ppy.sh/users/30147970), ::{ flag=US }:: [sonicthescrew](https://osu.ppy.sh/users/36769473), ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438), ::{ flag=US }:: [zempro](https://osu.ppy.sh/users/37507022) |
@@ -61,12 +61,12 @@ The Nightmare Taiko Frontier was run by various community members.
 - [Website](https://taiko-frontier.vercel.app/en/ntf1)
 - [Youtube channel](https://www.youtube.com/@TaikoFrontier_osu)
 - [Challonge bracket](https://challonge.com/ja/oxt3t7lo)
-- [Statistics sheet](https://drive.google.com/drive/folders/1sZtNz_-5zZ5hcuKrbElVoOco_6e7Itzs?usp=sharing)
+- [Statistics spreadsheets](https://drive.google.com/drive/folders/1sZtNz_-5zZ5hcuKrbElVoOco_6e7Itzs?usp=sharing)
 
 ## Participants
 
 | Seed | Player | Global rank[^global-rank-registration] |
-| :-- | :-- | :-- |
+| :-: | :-- | --: |
 | #1 | ::{ flag=JP }:: [\[Crz\]yomogi237](https://osu.ppy.sh/users/28571440) | #30 |
 | #2 | ::{ flag=JP }:: [\_Kan2](https://osu.ppy.sh/users/7160196) | #14 |
 | #3 | ::{ flag=JP }:: [sachiqa](https://osu.ppy.sh/users/21542520) | #23 |
@@ -131,7 +131,7 @@ The Nightmare Taiko Frontier was run by various community members.
 
 ## Podium
 
-![](img/ntf-podium.gif "NTF podium")
+![NTF podium](img/ntf-podium.gif "NTF podium")
 
 ## Mappools
 
@@ -208,7 +208,7 @@ The Nightmare Taiko Frontier was run by various community members.
   2. [bbno$ - it boy (nevqr) \[im him\]](https://osu.ppy.sh/beatmapsets/2232653#taiko/4740014)
   3. [Pizuya's Cell - Kagayaku Hari no Kobitozoku \~ Little Princess (CallMeLyra) \[Shining Needle Sword\]](https://osu.ppy.sh/beatmapsets/1178342#taiko/2457407)
 - Tiebreaker
-  1. [Camellia - Tojita Sekai (Gsuncraft) \[Unexplored\]](https://osu.ppy.sh/beatmapsets/2509131#taiko/5527095)
+  1. **[Camellia - Tojita Sekai (Gsuncraft) \[Unexplored\]](https://osu.ppy.sh/beatmapsets/2509131#taiko/5527095)**
 
 ### Quarterfinals
 
@@ -537,7 +537,7 @@ Sunday, 25 January 2026:
 
 ### Qualifiers
 
-The final standings for the Qualifiers stage can be found in the following [qualifiers results statistics page](https://docs.google.com/spreadsheets/d/1SrFfOKS3g9O7bUyWirk_6gBp9U9HTTTt6wCFmhkO0b0/edit?gid=629917536). No participants were eliminated and everyone proceed to the Round of 61 stage.
+The final standings for the Qualifier stage can be found in the [Qualifier results statistics page](https://docs.google.com/spreadsheets/d/1SrFfOKS3g9O7bUyWirk_6gBp9U9HTTTt6wCFmhkO0b0/edit?gid=629917536). No participants were eliminated and everyone proceed to the Round of 61 stage.
 
 | Seed | Player | Total score[^qualifiers-seeding] | Avg. score |
 | :-: | :-- | :-: | --: |
