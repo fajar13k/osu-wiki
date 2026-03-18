@@ -131,7 +131,13 @@ The Nightmare Taiko Frontier was run by various community members.
 
 ## Podium
 
-![NTF podium](img/ntf-podium.gif "NTF podium")
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=JP }:: [\_Kan2](https://osu.ppy.sh/users/7160196) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=DE }:: [dragonmaxx](https://osu.ppy.sh/users/12160279) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=JP }:: [Shamirin\_mzk](https://osu.ppy.sh/users/11325757) |
 
 ## Mappools
 
